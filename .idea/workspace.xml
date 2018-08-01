@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb6d4e6b-5439-43c9-ba80-f082ce9fb427" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="todo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="personel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/template/post/personel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/post/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/post/detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo/post/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo/post/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/todo/post/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template/post/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQL Script" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>home</find>
+      <find>slug</find>
+      <find>data</find>
+      <find>contain</find>
+      <find>row</find>
+      <find>url</find>
+      <find>data-pk</find>
+      <find>container</find>
+      <find>posts</find>
+      <find>&lt;/body&gt;</find>
+      <find>this</find>
+      <find>script</find>
+      <find>refresh</find>
+      <find>href</find>
+      <find>pers</find>
+      <find>eturn</find>
+      <find>get_object_or_404</find>
+      <find>personels</find>
+      <find>col</find>
+      <find>style.css</find>
+      <find>style</find>
+      <find>style.</find>
+      <find>personel</find>
+      <find>date</find>
+      <find>pk</find>
+      <find>id</find>
+      <find>scri</find>
+      <find>desc</find>
+      <find>body</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Gökhan.Karahan\Desktop\todo\todo\post</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todo" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/todo2/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/todo/dboard/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/tasks/index.html" />
+        <option value="$PROJECT_DIR$/template/post/base.html" />
+        <option value="$PROJECT_DIR$/template/base.htmş.html" />
+        <option value="$PROJECT_DIR$/todo/post/static/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/todo/post/static/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/template/post/header.html" />
+        <option value="$PROJECT_DIR$/todo/post/static/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/todo/post/migrations/0002_auto_20180712_1510.py" />
+        <option value="$PROJECT_DIR$/todo/post/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/template/post/dropdown.html" />
+        <option value="$PROJECT_DIR$/todo/home/apps.py" />
+        <option value="$PROJECT_DIR$/todo/home/tests.py" />
+        <option value="$PROJECT_DIR$/todo/home/views.py" />
+        <option value="$PROJECT_DIR$/todo/post/dynamic.py" />
+        <option value="ae1f7c89-55d0-4c0d-8db6-218b173d1017/consoles/Connection" />
+        <option value="53885ebd-e914-4a25-a242-eb695a72d5c7/consoles/Connection" />
+        <option value="$PROJECT_DIR$/todo/home/demo.py" />
+        <option value="$PROJECT_DIR$/todo/Tasklar" />
+        <option value="$PROJECT_DIR$/todo/personel_list/models.py" />
+        <option value="ae3c3219-aeb6-4811-9473-15a68310026b/consoles/Connection 1 1" />
+        <option value="ae3c3219-aeb6-4811-9473-15a68310026b/consoles/Connection 1" />
+        <option value="$PROJECT_DIR$/todo/post/static/methods.py" />
+        <option value="5429e6a3-9743-4622-9272-670c9271bed2/consoles/Connection" />
+        <option value="$PROJECT_DIR$/todo/dboard/context_processor.py" />
+        <option value="$PROJECT_DIR$/template/post/names.html" />
+        <option value="$PROJECT_DIR$/template/home2.html" />
+        <option value="$PROJECT_DIR$/todo/post/static/js/jquery-1.11.2" />
+        <option value="$PROJECT_DIR$/template/post/dnm.html" />
+        <option value="$PROJECT_DIR$/template/home.html" />
+        <option value="$PROJECT_DIR$/todo/dboard/urls.py" />
+        <option value="$PROJECT_DIR$/template/post/demo.html" />
+        <option value="$PROJECT_DIR$/todo/post/static/css/bootstrap-3.3.7.min.js" />
+        <option value="$PROJECT_DIR$/todo/post/static/css/style.css" />
+        <option value="$PROJECT_DIR$/template/header.html" />
+        <option value="$PROJECT_DIR$/todo/post/urls.py" />
+        <option value="$PROJECT_DIR$/template/base.html" />
+        <option value="$PROJECT_DIR$/todo/dboard/settings.py" />
+        <option value="$PROJECT_DIR$/todo/post/views.py" />
+        <option value="$PROJECT_DIR$/todo/post/models.py" />
+        <option value="$PROJECT_DIR$/todo/post/admin.py" />
+        <option value="$PROJECT_DIR$/template/post/form.html" />
+        <option value="$PROJECT_DIR$/todo/post/forms.py" />
+        <option value="$PROJECT_DIR$/template/post/detail.html" />
+        <option value="$PROJECT_DIR$/template/post/index.html" />
+        <option value="$PROJECT_DIR$/template/post/personel.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-50" />
+    <option name="y" value="46" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="deta&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/detail.html&#10;detail&#9;null&#9;null&#10;form&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/form.html&#10;models&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/models.py&#10;person&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/personel.html&#10;in&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/index.html&#10;adm&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/admin.py&#10;models,&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/models.py&#10;modes&#9;null&#9;null&#10;admins&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/admin.py&#10;det&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/detail.html&#10;inde&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/index.html&#10;views&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/views.py&#10;forms&#9;null&#9;null&#10;post&#9;null&#9;null&#10;model&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/models.py&#10;ad&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/admin.py&#10;setting&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/dboard/settings.py&#10;postad&#9;null&#9;null&#10;modelform&#9;null&#9;null&#10;settin&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/dboard/settings.py&#10;settings&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/dboard/settings.py&#10;mode&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/models.py&#10;vie&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/views.py&#10;admi&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/admin.py&#10;index&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/index.html&#10;urls&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/urls.py&#10;for&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/form.html&#10;header&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/header.html&#10;setti&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/dboard/settings.py&#10;hea&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/header.html&#10;base&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/base.html&#10;css&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/static/css&#10;style&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/static/css/style.css&#10;p&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/dboard/context_processor.py&#10;url&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/urls.py&#10;forwa&#9;null&#9;null&#10;FORWARD&#9;null&#9;null&#10;vi&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/views.py&#10;*.html&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/index.html&#10;.html&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/form.html&#10;personel&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/personel.html&#10;admin&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/admin.py&#10;personel_&#9;null&#9;null&#10;perso&#9;null&#9;null&#10;styl&#9;ACTION&#9;ChangeCodeStyleScheme&#10;sty&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/static/css/style.css&#10;post/css&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo/post/static/css&#10;pe&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/template/post/personel.html&#10;jquery&#9;FILE&#9;file://C:/Users/Gökhan.Karahan/Desktop/todo/todo2/Lib/site-packages/werkzeug/debug/shared/jquery.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gökhan.Karahan\Desktop\todo\todo\post\static\js" />
+      <recent name="C:\Users\Gökhan.Karahan\Desktop\todo\todo\post\static\css" />
+      <recent name="C:\Users\Gökhan.Karahan\Desktop\todo\template\post" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gökhan.Karahan\Desktop\todo\todo\dboard\static\images" />
+      <recent name="C:\Users\Gökhan.Karahan\Desktop\todo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.0001_initial">
+    <configuration name="0001_initial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/todo/post/migrations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/post/migrations/0001_initial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="todo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/todo/dboard" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/todo/dboard/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.settings" />
+      <item itemvalue="Python.0001_initial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.0001_initial" />
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb6d4e6b-5439-43c9-ba80-f082ce9fb427" name="Default" comment="" />
+      <created>1531306608038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531306608038</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49669966" side_tool="true" visible="true" weight="0.18675596" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info id="DB Browser" order="2" weight="0.3296131" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" sideWeight="0.5349702" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50074404" side_tool="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.34672618" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
+      <window_info id="Favorites" order="3" sideWeight="0.5033003" side_tool="true" weight="0.18675596" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5654762" weight="0.32843137" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49669966" visible="true" weight="0.18675596" />
+      <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.34672618" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" sideWeight="0.5349702" weight="0.32843137" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.32838285" />
+      <window_info id="DB Browser" order="2" weight="0.3296131" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50074404" side_tool="true" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5654762" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Favorites" order="3" sideWeight="0.5033003" side_tool="true" weight="0.18675596" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/todo/personel_list/models.py" />
+    <entry file="file://$PROJECT_DIR$/todo/Tasklar" />
+    <entry file="db://ae3c3219-aeb6-4811-9473-15a68310026b/consoles/Connection 1 1" />
+    <entry file="db://ae3c3219-aeb6-4811-9473-15a68310026b/consoles/Connection 1" />
+    <entry file="file://$PROJECT_DIR$/todo/post/static/methods.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="db://5429e6a3-9743-4622-9272-670c9271bed2/consoles/Connection" />
+    <entry file="file://$PROJECT_DIR$/todo/post/migrations/0003_post_personel.py" />
+    <entry file="file://$PROJECT_DIR$/todo/post/migrations/0002_personel.py" />
+    <entry file="file://$PROJECT_DIR$/dboard/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isis_logo_yeni.png" />
+    <entry file="file://$PROJECT_DIR$/todo/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/isislogo.png" />
+    <entry file="file://$PROJECT_DIR$/template/home2.html" />
+    <entry file="file://$PROJECT_DIR$/todo2/Lib/site-packages/werkzeug/debug/shared/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/static/js/jquery-1.11.2" />
+    <entry file="file://$PROJECT_DIR$/template/post/dnm.html" />
+    <entry file="file://$PROJECT_DIR$/todo/dboard/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/dboard/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dboard/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo2/Lib/site-packages/pkg_resources/_vendor/pyparsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="4099" column="6" selection-start-line="4099" selection-start-column="6" selection-end-line="4099" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo2/Lib/site-packages/pip/_vendor/pyparsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="4180" column="6" selection-start-line="4180" selection-start-column="6" selection-end-line="4180" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/Lib/site-packages/pkg_resources/_vendor/pyparsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="4099" column="6" selection-start-line="4099" selection-start-column="6" selection-end-line="4099" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/post/demo.html" />
+    <entry file="file://$PROJECT_DIR$/todo/dboard/context_processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/static/css/bootstrap-3.3.7.min.css" />
+    <entry file="file://$PROJECT_DIR$/todo/post/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/static/js/jquery.datetimepicker.full.js" />
+    <entry file="file://$PROJECT_DIR$/todo/post/static/css/jquery.datetimepicker.min.css" />
+    <entry file="file://$PROJECT_DIR$/todo/post/static/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/dboard/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo2/static/images/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/dboard/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/django/forms/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo2/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="48" column="45" selection-start-line="48" selection-start-column="45" selection-end-line="48" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/post/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/post/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/post/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/post/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="64" lean-forward="true" selection-start-line="38" selection-start-column="64" selection-end-line="38" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/post/personel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
